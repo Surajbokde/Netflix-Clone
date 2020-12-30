@@ -1,0 +1,39 @@
+nav{
+    background-color: rgba(0, 0, 0, 0.199);
+    
+}
+header{
+    background-image: radial-gradient(rgba(3, 3, 2, 0.288), rgb(2, 1, 1)), url( 
+            "../img/Netflix-Background.jpg"); 
+      
+    height:750px;
+    background-color: rgb(0, 0, 0);
+    border-bottom: 8px solid rgb(43, 42, 42);
+}
+
+.navbar .navbar-brand img{
+    padding: 8px;
+    margin-left: 28px;
+    height: 60px;
+    width: auto;
+}
+
+.navbar button{
+    padding: 8px 15px 8px 15px;
+    background-color: rgb(202, 0, 0);
+    color: white;
+    margin-right: 25px;
+    
+
+}
+
+.navbar button:hover{
+    cursor:pointer;
+    background-color: rgba(255, 0, 0, 0.473);
+    color: rgba(255, 255, 255, 0.966);
+}
+
+
+body{
+    background-color: rgb(0, 0, 0);
+}
